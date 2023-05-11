@@ -10,11 +10,11 @@
     "Fly.io"
   ],
   "scripts": {
-    "start": "greenwood develop",
+    "develop": "greenwood develop",
     "build": "greenwood build",
-    "serve": "greenwood serve"
+    "start": "greenwood serve"
   },
-  "devDependencies": {
+  "dependencies": {
     "@greenwood/cli": "~0.28.2"
   }
 }
