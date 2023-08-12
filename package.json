@@ -15,6 +15,6 @@
     "start": "greenwood serve"
   },
   "dependencies": {
-    "@greenwood/cli": "~0.28.2"
+    "@greenwood/cli": "~0.29.0-alpha.2"
   }
 }
